@@ -1,5 +1,5 @@
 {
-  "name": "studio/laravel-totem",
+  "name": "helixsleep/laravel-totem",
   "description": "A Laravel package to manage your cron jobs through a beautiful dashboard",
   "keywords": [
     "laravel",
@@ -17,12 +17,12 @@
   ],
   "require": {
     "php": ">=7.0",
-    "illuminate/bus":"~5.5",
-    "illuminate/console": "~5.5",
-    "illuminate/contracts": "~5.5",
-    "illuminate/database":"~5.5",
-    "illuminate/events": "~5.5",
-    "illuminate/notifications": "~5.5"
+    "illuminate/bus":"~5.6",
+    "illuminate/console": "~5.6",
+    "illuminate/contracts": "~5.6",
+    "illuminate/database":"~5.6",
+    "illuminate/events": "~5.6",
+    "illuminate/notifications": "~5.6"
   },
   "require-dev": {
     "mockery/mockery": "~0.9",
